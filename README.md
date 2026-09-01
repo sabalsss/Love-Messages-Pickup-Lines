@@ -1,10 +1,12 @@
-# Flirt — Privacy Policy
+# Love Messages & Pickup Lines — Privacy Policy
 
-Privacy policy for the **Flirt** Android app (`com.sabalapps.pickuplines`).
+Privacy policy for the **Love Messages & Pickup Lines** Android app (`com.sabalapps.pickuplinesapp`).
 
-The app is fully offline and collects **no** personal data.
+The app collects **no** personal data and makes no network requests of its own.
+The only Google component is the Play In-App Review card, which the Play Store
+app displays on the device.
 
-**Live page:** once GitHub Pages is enabled for this repo (Settings → Pages → Branch: `main` / root), the policy is served at:
+**Live page:** GitHub Pages serves this repo from `main` / root at:
 
 ```
 https://sabalsss.github.io/flirtPrivacyPolicy/
