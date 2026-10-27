@@ -1,6 +1,6 @@
-# Love Messages & Pickup Lines — Privacy Policy
+# Pickup Lines: Flirty Texts — Privacy Policy
 
-Privacy policy for the **Love Messages & Pickup Lines** Android app (`com.sabalapps.pickuplinesapp`).
+Privacy policy for the **Pickup Lines: Flirty Texts** Android app (`com.sabalapps.pickuplinesapp`).
 
 The app collects **no** personal data and makes no network requests of its own.
 The only Google component is the Play In-App Review card, which the Play Store
